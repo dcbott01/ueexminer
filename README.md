@@ -1,0 +1,2 @@
+# uecoin
+UECoin Bot
